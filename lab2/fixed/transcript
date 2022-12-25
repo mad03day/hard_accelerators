@@ -1,0 +1,18 @@
+# Compile of atan2_cordic_nw.v was successful.
+# Compile of Sqrt.v was successful.
+# Compile of Subsystem.v was successful.
+# Compile of Subsystem_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+do D:/Short/ApaSpeed/Laba2/hdlsrc/model/Subsystem_tb_sim.do
+# vsim -voptargs="+acc" work.Subsystem_tb 
+# Start time: 06:48:16 on Dec 25,2022
+# Loading work.Subsystem_tb
+# Loading work.Subsystem
+# Loading work.Sqrt
+# Loading work.atan2_cordic_nw
+# **************TEST COMPLETED (PASSED)**************
+# ** Note: $stop    : D:/Short/ApaSpeed/Laba2/hdlsrc/model/Subsystem_tb.v(499)
+#    Time: 1060 ns  Iteration: 0  Instance: /Subsystem_tb
+# Break in NamedBeginStat i_CLK_gen at D:/Short/ApaSpeed/Laba2/hdlsrc/model/Subsystem_tb.v line 499
+# End time: 06:50:30 on Dec 25,2022, Elapsed time: 0:02:14
+# Errors: 0, Warnings: 5

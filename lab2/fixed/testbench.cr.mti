@@ -1,0 +1,29 @@
+D:/Short/ApaSpeed/Laba2/hdlsrc/model/Sqrt.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdlsrc/model/Sqrt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sqrt
+
+Top level modules:
+	Sqrt
+
+} {} {}} D:/Short/ApaSpeed/Laba2/hdlsrc/model/Subsystem.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdlsrc/model/Subsystem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Subsystem
+
+Top level modules:
+	Subsystem
+
+} {} {}} D:/Short/ApaSpeed/Laba2/hdlsrc/model/Subsystem_tb.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdlsrc/model/Subsystem_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Subsystem_tb
+
+Top level modules:
+	Subsystem_tb
+
+} {} {}} D:/Short/ApaSpeed/Laba2/hdlsrc/model/atan2_cordic_nw.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdlsrc/model/atan2_cordic_nw.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module atan2_cordic_nw
+
+Top level modules:
+	atan2_cordic_nw
+
+} {} {}}
