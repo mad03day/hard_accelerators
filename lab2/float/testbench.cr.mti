@@ -1,0 +1,43 @@
+D:/Short/ApaSpeed/Laba2/hdl_float/model_float/Subsystem_tb.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdl_float/model_float/Subsystem_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Subsystem_tb
+
+Top level modules:
+	Subsystem_tb
+
+} {} {}} D:/Short/ApaSpeed/Laba2/hdl_float/model_float/nfp_add_single.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdl_float/model_float/nfp_add_single.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_add_single
+
+Top level modules:
+	nfp_add_single
+
+} {} {}} D:/Short/ApaSpeed/Laba2/hdl_float/model_float/nfp_atan2_single.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdl_float/model_float/nfp_atan2_single.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_atan2_single
+
+Top level modules:
+	nfp_atan2_single
+
+} {} {}} D:/Short/ApaSpeed/Laba2/hdl_float/model_float/nfp_mul_single.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdl_float/model_float/nfp_mul_single.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_mul_single
+
+Top level modules:
+	nfp_mul_single
+
+} {} {}} D:/Short/ApaSpeed/Laba2/hdl_float/model_float/nfp_sqrt_single.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdl_float/model_float/nfp_sqrt_single.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_sqrt_single
+
+Top level modules:
+	nfp_sqrt_single
+
+} {} {}} D:/Short/ApaSpeed/Laba2/hdl_float/model_float/Subsystem.v {1 {vlog -work work -stats=none D:/Short/ApaSpeed/Laba2/hdl_float/model_float/Subsystem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Subsystem
+
+Top level modules:
+	Subsystem
+
+} {} {}}
